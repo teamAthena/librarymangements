@@ -10,14 +10,30 @@ THIS CAN BE USED BY SCHOOLS, LIBRARY, COLLEGE ETC.....
 STEP 1 
 
 DOWNLOAD THE ZIP FILE ( library.zip)
+![GitHub - teamAthena_librarymangements - Google Chrome 6_20_2021 9_20_04 PM](https://user-images.githubusercontent.com/86059089/122680669-fb73a500-d20d-11eb-8cc6-46951732e945.png)
+
 
 STEP 2 
 
 EXTRACT IT IN A FOLDER .
+![librarymangements-main zip (evaluation copy) 6_20_2021 9_16_04 PM](https://user-images.githubusercontent.com/86059089/122680719-3bd32300-d20e-11eb-901e-68a9237b876b.png)
+ 
+![librarymangements-main (1) zip (evaluation copy) 6_20_2021 9_21_01 PM](https://user-images.githubusercontent.com/86059089/122680740-5c02e200-d20e-11eb-9fcf-1a6430026b52.png)
+
+MAKE A FOLDER AND EXTRACT AGAIN
+
+![C__Users_Harshad_Downloads_librarymangements-main (1) 6_20_2021 9_22_32 PM](https://user-images.githubusercontent.com/86059089/122680779-99676f80-d20e-11eb-960d-4b5377c5f5f4.png)
+![Library zip (evaluation copy) 6_20_2021 9_22_49 PM](https://user-images.githubusercontent.com/86059089/122680793-a84e2200-d20e-11eb-9512-d0e6d8377705.png)
 
 STEP 3 
 
 RUN THE PYTHON FILE ( Entry-point.py)
+![C__Users_Harshad_Downloads_librarymangements-main (1) 6_20_2021 9_23_13 PM](https://user-images.githubusercontent.com/86059089/122680805-bdc34c00-d20e-11eb-9961-4d7c76580f80.png)
+
+
+FINAL RESULTS :
+
+![Libcute 6_20_2021 8_52_21 PM](https://user-images.githubusercontent.com/86059089/122680815-d16eb280-d20e-11eb-8ee2-1891f08b3646.png)
 
 
 REQUIRMENTS :
